@@ -1,6 +1,6 @@
 # Welcome to gypsy.
 
-# Description: 
+## Description: 
 Gypsy is a travel webapp, created by using React.js 
 
 
