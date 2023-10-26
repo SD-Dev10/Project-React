@@ -8,7 +8,7 @@ The functionality of the webapp is yet to be developed. I've developed the UI us
 This application  consists of three pages, apart from the landing page or the home page. 
 Pages are mentioned below.
 
-. Home
+* Home
 . About
 . Contacts
 . Services
